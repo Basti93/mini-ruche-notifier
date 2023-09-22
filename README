@@ -1,0 +1,3 @@
+# Mini Ruche Notifier via Telegram Bot | Marktschwärmer Abholpunkt Benachrichtigung
+
+This small node server will fetch the current order count of the !first! sale of a mini ruche in the list and will notify the specified user via a Telegram Bot if it reached a certain number. Right now it's 10.
